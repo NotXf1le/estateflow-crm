@@ -1,0 +1,2 @@
+user_id,username,full_name,role,phone,email,password_hash,is_active,created_at,updated_at
+USR-20260419213836-CE6CFE,admin,System Administrator,admin,+38267000000,admin@estateflow.local,f1dc249d723a4e0559bf4586e2100310$5deedcd4b871014d9871564ccba2bc0b73f94614a2081728b81b4895fa60c75d,1,2026-04-19T21:38:36,2026-04-19T21:38:36

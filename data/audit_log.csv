@@ -1,0 +1,6 @@
+audit_id,actor_user_id,entity_type,entity_id,action,details,created_at
+AUD-20260419213836-D6CA92,USR-20260419213836-CE6CFE,user,USR-20260419213836-CE6CFE,create,Default admin account created,2026-04-19T21:38:36
+AUD-20260419220325-D22A66,,user,admin,login_failure,Login failed,2026-04-19T22:03:25
+AUD-20260419220327-3B75BC,,user,admin,login_failure,Login failed,2026-04-19T22:03:27
+AUD-20260419220328-6C41D4,,user,admin,login_failure,Login failed,2026-04-19T22:03:28
+AUD-20260419220342-94FCB0,USR-20260419213836-CE6CFE,user,USR-20260419213836-CE6CFE,login_success,Login successful,2026-04-19T22:03:42

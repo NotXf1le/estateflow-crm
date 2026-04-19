@@ -1,0 +1,1 @@
+deal_id,client_id,property_id,agent_id,deal_type,stage,status,asking_price,offer_price,agreed_price,commission_rate,commission_amount,expected_close_date,closed_date,notes,created_at,updated_at
