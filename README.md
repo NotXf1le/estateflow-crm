@@ -141,7 +141,21 @@ The suite covers:
 
 ## Screenshots
 
-Screenshot placeholders can be added here after launching the application on a machine with a working Tk/Tcl runtime.
+### Login
+
+![Login Screen](screenshots/Screenshot1.png)
+
+### Dashboard
+
+![Dashboard Screen](screenshots/Screenshot2.png)
+
+### CRM Workspace
+
+![CRM Workspace](screenshots/Screenshot3.png)
+
+### Reports
+
+![Reports Screen](screenshots/Screenshot4.png)
 
 ## Important Note
 

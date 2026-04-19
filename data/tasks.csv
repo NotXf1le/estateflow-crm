@@ -1,1 +1,7 @@
 task_id,title,related_entity_type,related_entity_id,assigned_agent_id,due_date,priority,status,notes,created_at,updated_at
+TSK-20260418150000-500E01,Prepare final offer summary,deal,DEA-20260418130000-300C01,USR-20260418083000-A1B2C3,2026-04-20,high,open,Include appliance concession scenarios,2026-04-18T15:00:00,2026-04-19T08:32:00
+TSK-20260418150500-500E02,Request fresh rental photos,property,PRP-20260418110500-200B02,USR-20260418083500-D4E5F6,2026-04-17,medium,overdue,Need brighter living room photos for ads,2026-04-18T15:05:00,2026-04-19T22:12:13
+TSK-20260418151000-500E03,Draft SPA annex,deal,DEA-20260418131000-300C03,USR-20260418083500-D4E5F6,2026-04-18,high,done,Completed with notary remarks included,2026-04-18T15:10:00,2026-04-18T17:20:00
+TSK-20260418151500-500E04,Follow up inbound office lead,client,CLI-20260418103000-100A07,USR-20260418083000-A1B2C3,2026-04-19,medium,in_progress,Confirm team size and lease term,2026-04-18T15:15:00,2026-04-19T09:15:00
+TSK-20260418152000-500E05,Arrange ownership papers review,property,PRP-20260418112500-200B06,USR-20260418083000-A1B2C3,2026-04-16,urgent,overdue,Collect latest cadastre extract and sketch,2026-04-18T15:20:00,2026-04-19T22:12:13
+TSK-20260418152500-500E06,Prepare office market comparables,deal,DEA-20260418131500-300C04,USR-20260418083500-D4E5F6,2026-04-15,low,cancelled,No longer needed after lead dropped,2026-04-18T15:25:00,2026-04-16T14:30:00

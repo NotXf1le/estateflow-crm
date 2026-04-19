@@ -1,1 +1,10 @@
 client_id,full_name,phone,email,role_type,status,assigned_agent_id,budget_min,budget_max,preferred_city,preferred_property_type,notes,created_at,updated_at
+CLI-20260418100000-100A01,Marina Kovacevic,+38267011001,marina.kovacevic@example.com,seller,active,USR-20260418083000-A1B2C3,,,Podgorica,apartment,Owner of two central Podgorica listings,2026-04-18T10:00:00,2026-04-18T10:00:00
+CLI-20260418100500-100A02,Petar Vukovic,+38267011002,petar.vukovic@example.com,buyer,qualified,USR-20260418083000-A1B2C3,130000.00,170000.00,Podgorica,apartment,Ready to close within 30 days,2026-04-18T10:05:00,2026-04-19T08:30:00
+CLI-20260418101000-100A03,Jelena Radulovic,+38267011003,jelena.radulovic@example.com,landlord,active,USR-20260418083500-D4E5F6,,,Budva,apartment,Prefers long term tenants only,2026-04-18T10:10:00,2026-04-18T10:10:00
+CLI-20260418101500-100A04,Stefan Mirkovic,+38267011004,stefan.mirkovic@example.com,tenant,active,USR-20260418083500-D4E5F6,700.00,1000.00,Budva,apartment,Needs move in before May,2026-04-18T10:15:00,2026-04-19T07:55:00
+CLI-20260418102000-100A05,Nikola Bjelica,+38267011005,nikola.bjelica@example.com,investor,nurturing,USR-20260418083000-A1B2C3,200000.00,400000.00,Podgorica,land,Interested in development parcels,2026-04-18T10:20:00,2026-04-19T08:15:00
+CLI-20260418102500-100A06,Ivana Djurisic,+38267011006,ivana.djurisic@example.com,buyer,active,USR-20260418083500-D4E5F6,90000.00,125000.00,Bar,apartment,Mortgage approved and waiting for handover,2026-04-18T10:25:00,2026-04-19T08:05:00
+CLI-20260418103000-100A07,Boris Simic,+38267011007,boris.simic@example.com,general_lead,new,USR-20260418083000-A1B2C3,,,Kotor,office,Inbound portal lead for office lease,2026-04-18T10:30:00,2026-04-19T09:20:00
+CLI-20260418103500-100A08,Tamara Perovic,+38267011008,tamara.perovic@example.com,seller,active,USR-20260418083500-D4E5F6,,,Tivat,house,Owner wants clean cash buyer,2026-04-18T10:35:00,2026-04-18T10:35:00
+CLI-20260418104000-100A09,Milos Kostic,+38267011009,milos.kostic@example.com,seller,active,USR-20260418083000-A1B2C3,,,Podgorica,land,Open to structured offers,2026-04-18T10:40:00,2026-04-18T10:40:00
